@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NodeSearcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a83a781208e4a7300131d94bdc60d595463a0105")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac221df311b374afe15fbb65b13c854bac722bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NodeSearcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NodeSearcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

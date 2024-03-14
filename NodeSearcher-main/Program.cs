@@ -6,14 +6,14 @@ namespace FindNodeCSharp
     {
         static void Main()
         {
-            Node n1 = new(1,1);
-            Node n2 = new(2,5);
-            Node n3 = new(3,32);
-            Node n4 = new(4,51);
-            Node n5 = new(5,9);
-            Node n6 = new(6,11);
-            Node n7 = new(7,4);
-            Node n8 = new(8,2);
+            Node n1 = new(1);
+            Node n2 = new(5);
+            Node n3 = new(32);
+            Node n4 = new(51);
+            Node n5 = new(9);
+            Node n6 = new(11);
+            Node n7 = new(4);
+            Node n8 = new(2);
 
             n1.Children.Add(n2);
             n1.Children.Add(n3);
@@ -26,7 +26,7 @@ namespace FindNodeCSharp
             n6.Children.Add(n8);
             n7.Children.Add(n8);
 
-            HashSet<int> hashIds = [];
+            HashSet<Node> hashIds = new HashSet<Node>();
             var result = Node.FindTarget(hashIds, n2, 2);
 
             if (result != null)

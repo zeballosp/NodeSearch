@@ -232,3 +232,4 @@ C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeTests\obj\Debug\net8.0\NodeTe
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeTests\obj\Debug\net8.0\NodeTests.csproj.CopyComplete
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeTests\obj\Debug\net8.0\NodeTests.genruntimeconfig.cache
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeTests\obj\Debug\net8.0\ref\NodeTests.dll
+C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeTests\obj\Debug\net8.0\NodeTests.sourcelink.json
