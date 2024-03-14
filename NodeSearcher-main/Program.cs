@@ -31,7 +31,7 @@ namespace FindNodeCSharp
 
             if (result != null)
             {
-                result.Print();
+                Console.WriteLine(result.ToString());
             }
             else
             {

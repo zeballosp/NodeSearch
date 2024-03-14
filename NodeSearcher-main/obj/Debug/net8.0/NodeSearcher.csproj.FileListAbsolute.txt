@@ -26,3 +26,4 @@ C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeSearcher-main\obj\Debug\net8.
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeSearcher-main\obj\Debug\net8.0\NodeSearcher.pdb
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeSearcher-main\obj\Debug\net8.0\NodeSearcher.genruntimeconfig.cache
 C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeSearcher-main\obj\Debug\net8.0\ref\NodeSearcher.dll
+C:\Users\PAMELA\source\repos\NodeSearcher-main\NodeSearcher-main\obj\Debug\net8.0\NodeSearcher.sourcelink.json

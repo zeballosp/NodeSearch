@@ -11,10 +11,9 @@
 
         // Constructor
         public Node(int id, int value) { Id = id; Value = value; }
-
-        public void Print()
-        { 
-            Console.WriteLine(Value.ToString());
+        public override string ToString()
+        {
+            return Value.ToString();
         }
 
         public static Node? FindTarget(HashSet<int> visited, Node node, int valueToFind)
